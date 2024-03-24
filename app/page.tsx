@@ -31,7 +31,7 @@ export default function Home() {
         <div className="flex flex-col w-full items-center justify-center gap-5">
           <h1 className="text-center border-2 border-purple-400 rounded-lg p-4 text-4xl hover:text-yellow-300">
             Mecânica dos Fluidos</h1>
-          <p className="hover:text-yellow-300">Professor: Luís Fernando</p>
+          <p className="hover:text-yellow-300">Professor: Luíz Fernando Lopes</p>
           <video
             src="/video-background.mp4"
             autoPlay

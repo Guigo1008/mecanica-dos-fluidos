@@ -7,7 +7,7 @@ export default function Sobre() {
         <main className="font-serif text-purple-950 bg-white h-screen">
             <Header />
             <div className="mx-20">
-                <h1 className="text-center text-4xl">Sobre</h1>
+                <h1 className="text-center text-4xl my-2">Sobre</h1>
                 <p className="text-center text-lg">
                     Este site foi criado com o intuito de ser meu caderno de anotações da matéria Mecânica
                     dos Fluidos, ministrada pelo professor Luiz Fernando. Aqui você encontrará os principais
@@ -27,7 +27,7 @@ export default function Sobre() {
                     <div className="flex flex-col justify-around gap-3 my-10 items-center">
                         <h3 className="text-2xl w-full">2. Referências bibliográficas:</h3>
                         <ul className="list-disc flex flex-col text-lg gap-2 items-baseline">
-                            <li>Hawking: Livro foda</li>
+                            <li>Hauke: Livro foda</li>
                             <li>Fox, Mc Donald: Livro base bom pra exercícios</li>
                             <li>W.W.W.: Livro também bom pra exercícios;</li>
                             <li>Bird: Livro tradicional bem completo, biblia de MecFlu.</li>
