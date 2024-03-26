@@ -4,7 +4,7 @@ import { Header } from "../../components/Header";
 
 export default function Sobre() {
     return (
-        <main className="font-serif text-purple-950 bg-white h-screen">
+        <main className="font-serif text-purple-950 bg-white min-h-screen overflow-scroll">
             <Header />
             <div className="mx-20">
                 <h1 className="text-center text-4xl my-2">Sobre</h1>
